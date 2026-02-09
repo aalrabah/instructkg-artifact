@@ -1,0 +1,3 @@
+# kgraphika
+
+Minimal pipeline:
